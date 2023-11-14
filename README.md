@@ -1,4 +1,11 @@
 # Cordel-Moderno
-Nesse projeto eu faço um site em HTML5 e CSS, que mostra um cordel de Milton Duarte utilizando algumas técnicas novas que aprendi em CSS. 
+Este repositório abriga o código-fonte e os recursos utilizados na criação do site "Cordel de Milton Duarte". Algumas informações essenciais:
 
-<a href="https://everton-leon.github.io/Cordel-Moderno/" target="_blank">Acessar site.</a>
+Estrutura do Projeto:
+
+<strong>HTML e CSS:</strong> A base do site é construída com HTML para a estrutura e CSS para o estilo.
+<strong>Efeito Parallax:</strong> Incorporamos o efeito parallax para enriquecer a experiência visual durante a leitura do cordel.
+<strong>Responsividade:</strong> O design responsivo garante que o conteúdo seja apresentado de maneira atraente em diferentes dispositivos.
+
+# Captura-de-Tela
+![Captura de tela 2023-11-14 120727](https://github.com/Everton-Leon/Cordel-Moderno/assets/121234114/10138f67-8f2b-4c28-9293-b99d2f0fe067)
